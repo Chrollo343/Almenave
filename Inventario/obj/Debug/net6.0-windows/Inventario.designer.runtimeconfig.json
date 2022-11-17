@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Eary\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Eary\\.nuget\\packages"
+      "C:\\Users\\angel.DESKTOP-H5AGEV5\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\angel.DESKTOP-H5AGEV5\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
