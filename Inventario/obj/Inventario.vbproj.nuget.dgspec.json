@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel.DESKTOP-H5AGEV5\\Documents\\GitHub\\Almenave\\Inventario\\Inventario.vbproj": {}
+    "C:\\Users\\Eary\\Desktop\\inventario\\Inventario\\Inventario.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\angel.DESKTOP-H5AGEV5\\Documents\\GitHub\\Almenave\\Inventario\\Inventario.vbproj": {
+    "C:\\Users\\Eary\\Desktop\\inventario\\Inventario\\Inventario.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel.DESKTOP-H5AGEV5\\Documents\\GitHub\\Almenave\\Inventario\\Inventario.vbproj",
+        "projectUniqueName": "C:\\Users\\Eary\\Desktop\\inventario\\Inventario\\Inventario.vbproj",
         "projectName": "Inventario",
-        "projectPath": "C:\\Users\\angel.DESKTOP-H5AGEV5\\Documents\\GitHub\\Almenave\\Inventario\\Inventario.vbproj",
-        "packagesPath": "C:\\Users\\angel.DESKTOP-H5AGEV5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel.DESKTOP-H5AGEV5\\Documents\\GitHub\\Almenave\\Inventario\\obj\\",
+        "projectPath": "C:\\Users\\Eary\\Desktop\\inventario\\Inventario\\Inventario.vbproj",
+        "packagesPath": "C:\\Users\\Eary\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eary\\Desktop\\inventario\\Inventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\angel.DESKTOP-H5AGEV5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eary\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

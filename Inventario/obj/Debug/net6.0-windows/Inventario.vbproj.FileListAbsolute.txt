@@ -36,7 +36,11 @@ C:\Users\Eary\Desktop\inventario\Inventario\bin\Debug\net6.0-windows\runtimes\un
 C:\Users\Eary\Desktop\inventario\Inventario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.vbproj.AssemblyReference.cache
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.Form1.resources
+C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.FormAgregarCliente.resources
+C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.FormAñadirMascota.resources
+C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.FormMascotas.resources
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.LOGIN.resources
+C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.Menu.resources
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.Resources.resources
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.vbproj.GenerateResource.cache
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.GeneratedMSBuildEditorConfig.editorconfig
@@ -49,4 +53,3 @@ C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\refint\Inve
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.pdb
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.genruntimeconfig.cache
 C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\ref\Inventario.dll
-C:\Users\Eary\Desktop\inventario\Inventario\obj\Debug\net6.0-windows\Inventario.Menu.resources
