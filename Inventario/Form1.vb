@@ -142,4 +142,8 @@ Public Class Form1
         Menu.Show()
         Me.Hide()
     End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Panel3.Visible = False
+    End Sub
 End Class
